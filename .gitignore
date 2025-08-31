@@ -34,13 +34,9 @@ yarn.lock
 /playwright/.cache/
 
 # Env variables
-.env
-.env.production
-.env.development
-.env.test
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
 mise.toml
+config.bat
